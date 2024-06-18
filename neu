@@ -54,9 +54,7 @@ ironfish faucet
 ironfish wallet:balance
 
 
-ironfish wallet:mint  
-
-
+ironfish wallet:mint
 ironfish wallet:burn
 
 
