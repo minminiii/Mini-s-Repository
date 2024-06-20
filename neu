@@ -8,7 +8,6 @@ Finding a bug  1 bug = 100 points
 #test
 sudo apt update && apt upgrade -y
 
-/
 sudo apt install build-essential g++ make
 
 
