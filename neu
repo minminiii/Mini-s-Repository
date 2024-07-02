@@ -59,4 +59,4 @@ ironfish wallet:burn
 
 ironfish wallet:send
 
-
+ironfish wallet:receive
