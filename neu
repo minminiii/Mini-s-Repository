@@ -57,6 +57,9 @@ ironfish wallet:balance
 ironfish wallet:mint
 ironfish wallet:save
 
+ironfish faucet    
+
+
 
 ironfish wallet:send
 
