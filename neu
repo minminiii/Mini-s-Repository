@@ -25,7 +25,7 @@ sudo apt-get install -y nodejs
 sudo npm install -g ironfish
 
 
-ironfish
+
 
 
 ufw allow ssh
