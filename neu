@@ -11,6 +11,8 @@ sudo apt update
 
 #update
 
+#.//
+
 
 sudo apt install build-essential g++
 
