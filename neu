@@ -9,11 +9,6 @@ Finding a bug  1 bug = 100 points
 sudo apt update
 
 
-#update
-
-#.//
-
-
 sudo apt install build-essential g++
 
 
