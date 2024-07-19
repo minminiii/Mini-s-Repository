@@ -32,6 +32,7 @@ ufw enable
 
 ironfish testnet          
 
+//#
 
 ironfish status -f
 
