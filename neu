@@ -9,7 +9,7 @@ Finding a bug  1 bug = 100 points
 sudo apt update
 
 
-sudo apt install build-essential g++
+sudo apt install build-essential
 
 
 sudo apt install screen/sb
