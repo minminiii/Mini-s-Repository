@@ -54,6 +54,7 @@ ironfish wallet:balance
 
 ironfish wallet:mint
 
+sudo apt update
 
 ironfish wallet:save
 ironfish status -f
