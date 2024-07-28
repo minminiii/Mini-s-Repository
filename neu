@@ -15,7 +15,7 @@ sudo apt install build-essential
 sudo apt install screen/sb
 
 
-sudo screen -S ironfish
+sudo screen -P ironfish
 
 
 sudo curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
