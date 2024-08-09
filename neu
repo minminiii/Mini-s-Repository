@@ -9,7 +9,7 @@ Finding a bug  1 bug = 125 points
 sudo apt install build-essential 
 
 
-sudo apt install screen/sb
+sudo apt install screen/sd
 
 
 sudo screen -P ironfish
