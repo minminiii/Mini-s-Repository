@@ -6,7 +6,7 @@ Pull a request  Small = 250 points  Medium = 500 points  Large = 1000 points
 Finding a bug  1 bug = 125 points
 
 
-sudo apt install build-essential 
+sudo apt install build-essential
 
 
 sudo apt install screen/sd
@@ -14,7 +14,9 @@ sudo apt install screen/sd
 
 sudo screen -V
 
+
 sudo apt install build-essential 
+
 
 sudo curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt-get install -y nodejs
