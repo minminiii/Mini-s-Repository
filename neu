@@ -60,7 +60,7 @@ ironfish wallet:mint
 sudo apt update
 
 ironfish wallet:save
-ironfish status -f
+ironfish status -f ironfish
 
 
 ironfish faucet    
