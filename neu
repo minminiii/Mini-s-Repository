@@ -5,12 +5,9 @@ Hosting a node 12 hours of continuous uptime = 11 points
 Pull a request  Small = 250 points  Medium = 500 points  Large = 1000 points
 Finding a bug  1 bug = 125 points
 
-
 sudo apt install build-essential
 
-
 sudo apt install screen/sd
-
 
 sudo screen -p ironfish
 
@@ -33,7 +30,6 @@ Hosting a node 12 hours of continuous uptime = 10 points
 
 ironfish testnet          
 sudo apt install build-essential
-
 
 ironfish status
 
