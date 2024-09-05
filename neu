@@ -32,7 +32,6 @@ ironfish testnet
 sudo apt install build-essential
 
 ironfish status
-//
 
 #//ironfish wallet:accounts
 
