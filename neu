@@ -25,7 +25,6 @@ ufw allow 9033
 ufw enable
 Hosting a node 12 hours of continuous uptime = 10 points
 
-
 ironfish testnet          
 sudo apt install build-essential
 
