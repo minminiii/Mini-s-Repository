@@ -16,7 +16,6 @@ sudo apt install build-essential
 sudo curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
-
 sudo npm install -g ironfish
 
 
