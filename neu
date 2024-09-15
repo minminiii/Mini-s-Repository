@@ -52,7 +52,6 @@ sudo apt update
 ironfish wallet:save
 ironfish status -f ironfish
 
-
 ironfish faucet    
 
 sudo apt update
